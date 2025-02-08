@@ -1,2 +1,2 @@
-# toka-bohi
+# Toka-Bohi
 Application helping people short records
